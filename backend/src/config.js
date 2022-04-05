@@ -54,7 +54,7 @@ const CHAIN = 'rinkeby'; // only rinkeby or polygon
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Queens of Clubs';
 const CONTRACT_SYMBOL = 'QC';
-const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
+const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x3B693a8c37656F80912EFd9677AB9EF2D6Fe6157';
 const TREASURY_ADDRESS = '0x3B693a8c37656F80912EFd9677AB9EF2D6Fe6157';
 const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
