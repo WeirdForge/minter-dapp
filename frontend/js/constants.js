@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Queens of Clubs NFT project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Queens of Clubs NFT is a WeirdForge production.';
+const welcome_p = 'The Queens of Clubs NFT project is a hand drawn collection portraying women of the metal scene, a WeirdForge production.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Open!";
 const h1_public_mint = "Public Minting Open!";
